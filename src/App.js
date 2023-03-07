@@ -34,7 +34,7 @@ export default class App extends Component {
             progress={this.state.progress}
           />
           <Routes>
-            <Route exact path="/React-NewsMonkey" element={<News setProgress = {this.setProgress} apikey = {this.apikey} key="general" pageSize={this.pageSize} country="in" category="General" />}></Route>
+            <Route exact path="/" element={<News setProgress = {this.setProgress} apikey = {this.apikey} key="general" pageSize={this.pageSize} country="in" category="General" />}></Route>
             <Route exact path="/business" element={<News setProgress = {this.setProgress} apikey = {this.apikey} key="business" pageSize={this.pageSize} country="in" category="Business" />}></Route>
             <Route exact path="/entertainment" element={<News setProgress = {this.setProgress} apikey = {this.apikey} key="business" pageSize={this.pageSize} country="in" category="Entertainment" />}></Route>
             <Route exact path="/general" element={<News setProgress = {this.setProgress} apikey = {this.apikey} key="general" pageSize={this.pageSize} country="in" category="General" />}></Route>
