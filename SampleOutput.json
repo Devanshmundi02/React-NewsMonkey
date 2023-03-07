@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Watch: Scottish Championship - Morton v Dundee",
+            "description": "Watch live Sportscene coverage and follow text updates of Morton's Scottish Championship meeting with Dundee.",
+            "url": "http://www.bbc.co.uk/sport/live/football/64533148",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-02-17T19:37:29.0790178Z",
+            "content": "Morton: Schwache, Pignatiello, O'Connor, Baird, Waters, Blues, Crawford, Grimshaw, McGrattan, Quitongo, Oakley\r\nSubstitutes: Green, Roy, Ambrose, Garrity, King\r\nDundee: Legzdins, Fisher, Sweeney, Ash… [+162 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "Barstool Sports is acquired by Penn Entertainment",
+            "description": "Barstool Sports has been sold to Penn Entertainment Inc. Penn paid about $388 million for the remaining stake in Barstool Sports that it doesn't already own, the sports and entertainment company said Friday.",
+            "url": "https://apnews.com/9952b602eb4bd3c4d6b5965e98342dbb",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/ada6b062f6224c6f9dbead91ed8a5f2b/1886.jpeg",
+            "publishedAt": "2023-02-17T18:14:04Z",
+            "content": "Barstool Sports has been sold to Penn Entertainment Inc. Penn paid about $388 million for the remaining stake in Barstool Sports that it doesn't already own, the sports and entertainment company said… [+908 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "John Fanta",
+            "title": "College basketball futures bets to make now to win March Madness",
+            "description": "With Selection Sunday three weeks away, FOX Sports college basketball reporter John Fanta gives us his favorite futures to cut down the nets.",
+            "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-futures-bets-to-make-now-to-win-march-madness",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/02/1408/814/2.16.23_JMacs-NCAAB-Title-Picks-for-Next-Year-Horizontal-copy.jpg?ve=1&tl=1",
+            "publishedAt": "2023-02-17T17:12:36Z",
+            "content": "Now that the NFL season has concluded, college basketballs got next. And if this season has been any indication of what we are in for in the Big Dance, its going to be wild. \r\nWhile Alabama, Houston … [+5221 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Ireland bat first in must-win game against West Indies in T20 World Cup",
+            "description": "Follow live text, in-play clips and BBC Radio 5 Sports Extra as West Indies face Ireland in the Women’s T20 World Cup.",
+            "url": "http://www.bbc.co.uk/sport/live/cricket/64044921",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-02-17T16:52:23.79806Z",
+            "content": "Ireland captain Laura Delany: \"We'll have a bat first. It's a nice wicket, we fielded first the other day and we want to change that up.\r\n\"We've put in good performances during the warm-up games and … [+194 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "☄️ New &#x27;Hero Ball&#x27; Episode",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/371669-hero-ball-2023-allstar-special",
+            "urlToImage": null,
+            "publishedAt": "2023-02-17T16:37:19.4379648Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "&#x27;The Voncast&#x27; with Myles Garrett",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/304730-the-voncast-with-myles-garrett",
+            "urlToImage": null,
+            "publishedAt": "2022-12-01T18:52:49.4768049Z",
+            "content": "Myles Garrett and Von Miller talk playing in the NBA, pick their dream NFL defense and more"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        }
+    ]
+}
